@@ -21,7 +21,7 @@ It is designed and simulated using **Xilinx Vivado**, making it suitable for lea
   * OR
   * XOR
   * NOT
-* Performs operations such shift left, shift right, increment, decrement and compare    
+* Performs operations such as shift left, shift right, increment, decrement and compare   
 * Supports multi-bit inputs (customizable)
 * Designed using **modular and synthesizable Verilog code**
 * Includes **testbench for simulation verification**
